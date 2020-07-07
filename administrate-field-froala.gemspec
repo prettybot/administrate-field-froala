@@ -17,4 +17,5 @@ Gem::Specification.new do |gem|
   gem.add_dependency "administrate", ">= 0.3.0", "< 1.0"
   gem.add_dependency "rails", ">= 4.2", "< 7"
   gem.add_dependency "wysiwyg-rails", "~> 3.0"
+  gem.add_dependency "font-awesome-sass", '~> 5.13.0'
 end
