@@ -1,7 +1,5 @@
 $:.push File.expand_path("../lib", __FILE__)
 
-require "administrate/field/froala"
-
 Gem::Specification.new do |gem|
   gem.name = "administrate-field-froala"
   gem.version = Administrate::Field::Froala::VERSION
